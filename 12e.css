@@ -1,0 +1,35 @@
+.container{
+    width:400px;
+    height:150px;
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: gray;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding-left: 13px;
+    padding-right: 13px;
+    
+}
+.section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+}
+.alert{
+    background-color: rgb(0, 102, 255);
+    color:white;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 6px 15px;
+    border-radius: 17px;
+
+}
+p{
+    font-family: Arial;
+    font-size: 20px;
+}
+
